@@ -7,13 +7,16 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgresql,mysql,mongodb" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,docker,aws" />
 </div>
 <br><br/>
 <p align="center">
