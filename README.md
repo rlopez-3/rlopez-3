@@ -20,7 +20,7 @@
 </div>
 <br><br/>
 <p align="center">
-  💡 Always learning, building, and sharing — let's create something great together.
+  💡 Always learning and building.
 </p>
 
 <!--
